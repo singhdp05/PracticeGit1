@@ -31,6 +31,8 @@ public class PS1 extends PS {
 			System.out.println("Copied from git8");
 			System.out.println("Copied from git9");
 			System.out.println("Copied from git10");
+			System.out.println("Copied from git11");
+			System.out.println("Copied from git12");
 			
 
 	}

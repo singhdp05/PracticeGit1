@@ -10,6 +10,8 @@ public class PS3 {
 	public int multiplyByTwo()
 	{
 		a=a*2;
+		a=a*3;
+		a=a*5;
 		return a;
 	}
 	
