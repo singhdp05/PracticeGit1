@@ -11,6 +11,8 @@ public class PS2 extends PS3{
 	public int increment()
 	{
 		a=a+1;
+		a=+2;
+		a+=3;
 		return a;
 	}
 
