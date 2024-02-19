@@ -21,4 +21,9 @@ public class PS {
 		System.out.println("Execute this");
 	}
 	
+	public void doNotThis()
+	{
+		System.out.println("Do not Execute this");
+	}
+	
 }

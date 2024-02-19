@@ -21,4 +21,9 @@ public class PS3 {
 		return a;
 	}
 
+	public int multiplyByFour()
+	{
+		a=a*4;
+		return a;
+	}
 }
