@@ -17,8 +17,14 @@ public class PS2 extends PS3{
 	}
 
 	public int decrement()
+	
 	{
 		a=a-1;
+		return a;
+	}
+	public int decrement1()
+	{
+		a=a-7;
 		return a;
 	}
 }
