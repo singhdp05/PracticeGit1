@@ -27,4 +27,9 @@ public class PS2 extends PS3{
 		a=a-7;
 		return a;
 	}
+	public int decrement2()
+	{
+		a=a-9;
+		return a;
+	}
 }

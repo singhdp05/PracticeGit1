@@ -25,5 +25,9 @@ public class PS {
 	{
 		System.out.println("Do not Execute this");
 	}
+	public void CannotExecuteThis()
+	{
+		System.out.println("Cannot Execute this");
+	}
 	
 }
